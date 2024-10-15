@@ -1,0 +1,5 @@
+undefined: 53681.2061
+undefined: 1004166.4549
+undefined: 802760.7323
+undefined: 6197.4671
+undefined: 1101005.0636
