@@ -1,5 +1,5 @@
-undefined: 53681.2061
-undefined: 1004166.4549
-undefined: 802760.7323
-undefined: 6197.4671
-undefined: 1101005.0636
+Amounts due to non-bank financial institutions:53681.2061
+Amounts due to individuals (including saving (deposit) certificates):1004166.4549
+Banks' liabilities in foreign currency:802760.7323
+Term deposits of other banks and loans received from other banks:6197.4671
+Amounts due to corporates:1101005.0636
